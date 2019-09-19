@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: openapi-demo-java
+server:
+  port: 8080
